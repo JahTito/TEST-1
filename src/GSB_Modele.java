@@ -13,6 +13,7 @@ public class GSB_Modele {
 
 	
 	//Test commentaire Git
+	//test 2
 	public static boolean connexion(){
 		boolean rep= false;
 		try{
